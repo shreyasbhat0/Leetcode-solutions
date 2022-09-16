@@ -12,3 +12,5 @@ pub use remove_duplicate_from_sorted_array::remove_duplicates;
 pub use roman_to_numbers::roman_to_number;
 pub use two_sum::two_sum;
 pub use valid_parentheses::is_valid;
+mod remove_element;
+pub use remove_element::remove_element;
