@@ -14,3 +14,5 @@ pub use two_sum::two_sum;
 pub use valid_parentheses::is_valid;
 mod remove_element;
 pub use remove_element::remove_element;
+mod plus_one;
+pub use plus_one::plus_one;
